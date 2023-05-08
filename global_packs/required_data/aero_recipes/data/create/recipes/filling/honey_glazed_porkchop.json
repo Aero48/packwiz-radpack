@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "amount": 250,
+      "fluid": "create:honey",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "buzzier_bees:glazed_porkchop"
+    }
+  ]
+}

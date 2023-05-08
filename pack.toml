@@ -1,0 +1,13 @@
+name = "Rad Pack"
+author = "Aero"
+version = "1.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5c62e4e22296c3f338ebfde5678e70b0d3bbed5d1931731f6142be7b974e0447"
+
+[versions]
+forge = "43.2.10"
+minecraft = "1.19.2"
