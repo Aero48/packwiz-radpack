@@ -1325,10 +1325,6 @@ hash = "20222a2e823e88c1732d6b346478738fd0518f15c211de8c0ff82fbec8dbfd4d"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "7ddabe050ab9ce72badc4998ff352cf461704df282a12875a228292442a06558"
-
-[[files]]
 file = "resourcepacks/Abnormal+Bushy+Leaves+-+2.zip"
 hash = "2bd01955de30827a992ef4d3d3e2e08d12e94ee8db651753594a8354dc2a1393"
 
