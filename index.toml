@@ -950,6 +950,10 @@ hash = "f56d703c037bd522cd1da3fd61431a4824b1d73f263a31e52b586d14189610d1"
 metafile = true
 
 [[files]]
+file = "mods/alloyed-1.19.2-v1.5.1.jar"
+hash = "9130b6457dabc96c92566d0fae18eef0822244a05531a5ce0ba47417fcd96ce2"
+
+[[files]]
 file = "mods/allurement.pw.toml"
 hash = "73592fc9cd5fedf2b15f7223e2ad4fb89b261134c7fa719d09c02ecfe206b845"
 metafile = true
@@ -966,7 +970,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "f7a3e7000b1babc57896bfc34200102ca75b951ef7dc67984301261ef8e999c7"
+hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
 metafile = true
 
 [[files]]
@@ -1016,7 +1020,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "58f75414da63386b16498d447ebd9c0074e72df9e8a667f075577e1813e5d31e"
+hash = "954db250d3d26937d4e62095a336f9c072d3e4ae441d8f71570d63ebcd1b4f83"
 metafile = true
 
 [[files]]
@@ -1040,18 +1044,8 @@ hash = "4304b63b8ccd8ae34ad528f63d9c6b54c6e7cadacbd3326ed3cd7bb1d5213595"
 metafile = true
 
 [[files]]
-file = "mods/create-alloyed.pw.toml"
-hash = "710fba5cc4183a0d1661132614e5acd08ee3c8105dea4695b640fafe6a6b14c0"
-metafile = true
-
-[[files]]
-file = "mods/create-central-kitchen.pw.toml"
-hash = "2cd321c717835c90ef48ba83a172b0a8dbb0bf4c238bc043234066d3fa03d294"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
-hash = "3263538e83dbfcdfccbe8b278cf163894a992672f97db3efb551c7a47cdf8ff3"
+hash = "89bf28ca15640301ff8cf651ccbcae3047cbaf6af30797f739bfa45d1f2299ce"
 metafile = true
 
 [[files]]
@@ -1081,7 +1075,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "d93a64c51c78f01cf632d24dffcce7c8dc69d9f535081bf0d6836f18fc099411"
+hash = "8a9d4296d4de9e87fc4ad1941bea3a63b4dcd13b185581c88c2e3771e3a47158"
 metafile = true
 
 [[files]]
@@ -1186,7 +1180,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e71a182f2a4ed2adef11c506bbdcd6c18ed07eaeaf786299551a06c1052d40f4"
+hash = "b9e739c39bf7de15f3cd738c3294e0a4007974fe92fa3a61f4ce97a81e341bad"
 metafile = true
 
 [[files]]
@@ -1196,7 +1190,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "35dfd476a644abffce8b0d1c0cd383a47fc4511bd4c709dbc46edfb74c19c606"
+hash = "7e0e83e1ea84d1b654a489192145ec401ae64bcda50e967bc35072c5a039a5f9"
 metafile = true
 
 [[files]]
@@ -1211,12 +1205,12 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "cb0af91d7b5f99b46022e3af2ef7e128028f6a2f91feb0a8f4fa22e9556f30b3"
+hash = "9656604f85b22fe3c05f27a507ca7ec6f17b5745faea6382f865b2774c0bb909"
 metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "95518e20b223ff5c53c14e7c7ecb70093c655b8dbdec8fc56ee5bb7e76540fed"
+hash = "934115dd157d2e040da75153198ff497099b2fb5d8141fa543a39ad461e217cd"
 metafile = true
 
 [[files]]
@@ -1241,12 +1235,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "8b90af7acd60fbdf3f19861e794b7dc2d2c749480ccca7409aa0ea6e7752f7df"
+hash = "5699c0f9c7aae8254080b512f9dff5822fc6b82b9541b48f363b2810cf47119b"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "40793c0ed40364a11d42df25c00f2f3284c4f5106d2df51a605e1733001b4d79"
+hash = "b10cf4486d633d388564774a8e407124d1343d0bc20aef761572fff04d3657f3"
 metafile = true
 
 [[files]]
@@ -1276,12 +1270,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
-hash = "0eafc7fd77a12950329e47ce09b03c2f8057418c1225c4cf1081ef961ede74eb"
+hash = "e5193ed1544359284f88c9882d32d918ebf237015a03daadfbbb8d1fe71e22ab"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b06a689f856227de2e5f39a4e217f719664a702d157f35d88bd88d770e82ed5e"
+hash = "ff2933697a23fa143d2b71421a7bee194d02ec5a24bf54537d3febdb19678c65"
 metafile = true
 
 [[files]]
